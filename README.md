@@ -1,6 +1,6 @@
 
 <h1> My personal Project <h1>
-  <p> On progress <p>
+  <h> On progress <h>
 
 
 ![start](Screen_shot_personal_project.png)
