@@ -2,7 +2,7 @@
 <h1> My personal Project <h1>
   <div>
     <body>
-      <p> On progress <p>
+      <p> (On progress) <p>
     </body>
   </div>
 
